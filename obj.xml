@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<demowebshop>
+<login>Log in</login>
+<username>Email</username>
+<password>Password</password>
+<submit>//input[@value='Log in']</submit>
+</demowebshop>
